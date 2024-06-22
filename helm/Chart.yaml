@@ -2,5 +2,5 @@ apiVersion: v2
 name: incubation-rendezvous
 description: Helm chart for incubation-rendezvous
 type: application
-version: 0.0.1
+version: 0.1.0
 appVersion: 1.0.0
