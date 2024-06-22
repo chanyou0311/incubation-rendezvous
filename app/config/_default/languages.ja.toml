@@ -1,0 +1,25 @@
+languageCode = "ja"
+languageName = "Japanese"
+weight = 1
+title = "インキュベランデブー"
+
+[params]
+displayName = "JA"
+isoCode = "ja"
+rtl = false
+dateFormat = "2 January 2006"
+copyright = "© 2024 インキュベランデブー実行委員会"
+# logo = "girl.png"
+# secondaryLogo = "bg_square.jpg"
+# description = "hogehoge"
+
+[author]
+name = "インキュベランデブー"
+image = "girl.png"
+headline = "参加者募集中！！"
+# links = [
+#   { bluesky = "https://bsky.app/profile/chanyou.app" },
+#   { email = "me@chanyou.dev" },
+#   { github = "https://github.com/chanyou0311" },
+#   { x-twitter = "https://x.com/chanyou0311" },
+# ]

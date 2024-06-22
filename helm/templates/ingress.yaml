@@ -1,0 +1,23 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: {{.Values.applicationName}}
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt-prod
+spec:
+  ingressClassName: nginx
+  tls:
+    - hosts:
+        - "{{.Values.applicationName}}.chanyou.app"
+      secretName: "{{.Values.applicationName}}-tls"
+  rules:
+    - host: "{{.Values.applicationName}}.chanyou.app"
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: {{.Values.applicationName}}
+                port:
+                  name: http
