@@ -1,7 +1,7 @@
 languageCode = "ja"
 languageName = "Japanese"
 weight = 1
-title = "インキュベランデブー"
+title = ""
 
 [params]
 displayName = "JA"
@@ -9,7 +9,7 @@ isoCode = "ja"
 rtl = false
 dateFormat = "2 January 2006"
 copyright = "© 2024 インキュベランデブー実行委員会"
-# logo = "girl.png"
+logo = "logo.png"
 # secondaryLogo = "bg_square.jpg"
 # description = "hogehoge"
 
