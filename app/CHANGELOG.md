@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/chanyou0311/incubation-rendezvous/compare/v0.2.0...v0.2.1) (2024-06-24)
+
+
+### Bug Fixes
+
+* favicon をキャラクターに変更 ([#4](https://github.com/chanyou0311/incubation-rendezvous/issues/4)) ([fe02207](https://github.com/chanyou0311/incubation-rendezvous/commit/fe02207ab2e775172f7a6078e6cf824f10b56e58))
+
 ## [0.2.0](https://github.com/chanyou0311/incubation-rendezvous/compare/v0.1.0...v0.2.0) (2024-06-24)
 
 
