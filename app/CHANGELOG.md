@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/chanyou0311/incubation-rendezvous/compare/v0.2.1...v0.2.2) (2024-07-15)
+
+
+### Bug Fixes
+
+* use googleapis/release-please-action@v4 ([47fadfe](https://github.com/chanyou0311/incubation-rendezvous/commit/47fadfea7a6b98365c262ffc56ea916d72918df0))
+
 ## [0.2.1](https://github.com/chanyou0311/incubation-rendezvous/compare/v0.2.0...v0.2.1) (2024-06-24)
 
 
