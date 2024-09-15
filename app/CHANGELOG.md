@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/chanyou0311/incubation-rendezvous/compare/v0.2.2...v0.2.3) (2024-09-15)
+
+
+### Bug Fixes
+
+* Update README.md ([eee95fa](https://github.com/chanyou0311/incubation-rendezvous/commit/eee95fae87f0275fb423ece736e9542e28942ea4))
+
 ## [0.2.2](https://github.com/chanyou0311/incubation-rendezvous/compare/v0.2.1...v0.2.2) (2024-07-15)
 
 
